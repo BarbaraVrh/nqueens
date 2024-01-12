@@ -1,5 +1,3 @@
-
-
 from NQueensProblem_rr_lbs import *
 from HillClimbingSearch_rr_lbs import *
 from random import shuffle
